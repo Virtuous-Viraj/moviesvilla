@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moviesvilla/static/css/main.cebc5df7.css",
+    "main.js": "/moviesvilla/static/js/main.02b2992b.js",
+    "static/js/787.14e4bc02.chunk.js": "/moviesvilla/static/js/787.14e4bc02.chunk.js",
+    "index.html": "/moviesvilla/index.html",
+    "main.cebc5df7.css.map": "/moviesvilla/static/css/main.cebc5df7.css.map",
+    "main.02b2992b.js.map": "/moviesvilla/static/js/main.02b2992b.js.map",
+    "787.14e4bc02.chunk.js.map": "/moviesvilla/static/js/787.14e4bc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cebc5df7.css",
+    "static/js/main.02b2992b.js"
+  ]
+}
